@@ -1,0 +1,70 @@
+#controls {
+  width: 100%;
+  border-bottom: solid 2px lightgrey;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+#controlsArea {
+   width: 80%; 
+   margin-right: auto;
+   margin-left: auto;
+}
+
+input {
+  margin: 10px;
+}
+
+#custom {
+  border-bottom: solid 2px black;
+}
+
+#customArray {
+    width: 400px;
+}
+
+#match {
+   width: 50px;
+   margin-left: 10px;
+}
+
+#customButton {
+   margin-left: 310px; 
+}
+
+.labels {
+  width: 300px;
+  text-align: right;
+  display: inline-block;
+}
+
+#problemDefinition {
+  width: 100%;
+  height: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: lightblue;
+  text-align: center;
+}
+
+table, th, td {
+    border: 1px solid lightgrey;
+    border-collapse: collapse;
+}
+
+th {
+  background-color: lightblue;
+}
+
+table {
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+
+.highlight {
+  background-color: lightgrey;
+}
